@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @michael9801
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+michael9801/michael9801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+https://evelo.com/blogs/learn/what-is-the-difference-between-a-cadence-sensor-and-a-torque-sensor-on-an-electric-bike
+https://sensitivus.com/products/contactless-torque-sensor-module/e-bike-torque-sensor-technology-comparison/
+https://wheretheroadforks.com/ebike-torque-vs-cadence-sensor-pedal-assist-pros-and-cons/
